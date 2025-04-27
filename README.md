@@ -1,2 +1,2 @@
 # spotify-clone
-this a spotify clone using html and css . Build for practice purpose only
+this a spotify clone using html and css . Build for practice purpose only.
